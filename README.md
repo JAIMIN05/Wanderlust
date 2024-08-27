@@ -26,4 +26,23 @@ Wanderlust is built on a powerful technology stack that ensures a smooth, secure
 Clone the project:
 
 ```bash
-git clone 
+git clone https://wanderlust-8xsc.onrender.com/listings
+
+Navigate to the project directory and install dependencies:
+
+```bash
+npm install
+
+Start the server:
+
+```bash
+node index.js
+
+Or, if you prefer:
+```bash
+
+nodemon index.js
+
+Open localhost:8080/listings in your browser, or use a deployment service like Render.
+
+
