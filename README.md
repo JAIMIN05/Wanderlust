@@ -21,4 +21,7 @@ Wanderlust is built on a powerful technology stack that ensures a smooth, secure
 | **Frontend**         | HTML, CSS, JavaScript (Bootstrap)  |
 | **Third-Party Integrations** | Mapbox, Cloudinary, Passport     |
 
+Connect with Me
+[LinkedIn](https://www.linkedin.com/in/jaimin-kaneriya-492928253/)
+
 
