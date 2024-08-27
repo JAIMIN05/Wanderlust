@@ -26,6 +26,7 @@ Wanderlust is built on a powerful technology stack that ensures a smooth, secure
 Clone the project:
 
 ```bash
+
 git clone https://wanderlust-8xsc.onrender.com/listings
 
 Navigate to the project directory and install dependencies:
